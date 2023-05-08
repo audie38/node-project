@@ -1,0 +1,6 @@
+[
+  { "uid": 1666707540739, "username": "milson389", "password": "$2b$10$GAgpHfzrB4xzkLQxolqCgejQ1Ed0m4HQOnYZU9i2ANKayTeLU9JMm", "roles": { "User": 2001 }, "refreshToken": "" },
+  { "uid": 1666708310402, "username": "kurosaki", "password": "$2b$10$wAi6/sS96cXG9nYdVxOcTOuUE2p94uWhRzd4OXsTqFzTk4Fd851G.", "roles": { "User": 2001, "Editor": 1984 }, "refreshToken": "" },
+  { "uid": 1666707502330, "username": "ichigo3008", "password": "$2b$10$.Pjny86Fq3AiG91X29nRX./11urkUTuT4a2HbqyssUMQcPT.BMQK.", "roles": { "User": 2001 }, "refreshToken": "" },
+  { "uid": 1666708182334, "username": "milson6389", "password": "$2b$10$kPvU2X/St2GHtyf9LfHuAOzC2p5PtTUWb.Fv0HNru/RjtZFxO9x12", "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 }, "refreshToken": "" }
+]
